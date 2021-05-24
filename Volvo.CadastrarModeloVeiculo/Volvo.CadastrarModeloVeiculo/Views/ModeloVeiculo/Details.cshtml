@@ -1,0 +1,42 @@
+﻿@model Volvo.CadastrarModeloVeiculo.ViewModel.ModeloVeiculo.ModeloVeiculoIndexViewModel
+
+@{
+    ViewBag.Title = "Detalhes Modelo Veiculo";
+}
+
+<h2>Detalhes Modelo Veiculo</h2>
+
+<div>
+    <h4>ModeloVeiculo</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Modelo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Modelo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AnoFabricacao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AnoFabricacao)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AnoModelo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AnoModelo)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.Id }, htmlAttributes: new { @class = "btn btn-primary" }) |
+    @Html.ActionLink("Voltar", "Index", null, new { @class = "btn btn-default" })
+</p>

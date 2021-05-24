@@ -1,0 +1,6 @@
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Volvo.CadastrarModeloVeiculo.Dominio\bin\Debug\Volvo.CadastrarModeloVeiculo.Dominio.dll
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Volvo.CadastrarModeloVeiculo.Dominio\bin\Debug\Volvo.CadastrarModeloVeiculo.Dominio.pdb
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Volvo.CadastrarModeloVeiculo.Dominio\obj\Debug\Volvo.CadastrarModeloVeiculo.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Volvo.CadastrarModeloVeiculo.Dominio\obj\Debug\Volvo.CadastrarModeloVeiculo.Dominio.dll
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Volvo.CadastrarModeloVeiculo.Dominio\obj\Debug\Volvo.CadastrarModeloVeiculo.Dominio.pdb
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Volvo.CadastrarModeloVeiculo.Dominio\obj\Debug\Volvo.CadastrarModeloVeiculo.Dominio.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Volvo.CadastrarModeloVeiculo.Repositorio.Comum.Entity\bin\Debug\Volvo.CadastrarModeloVeiculo.Repositorio.Comum.Entity.dll
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Volvo.CadastrarModeloVeiculo.Repositorio.Comum.Entity\bin\Debug\Volvo.CadastrarModeloVeiculo.Repositorio.Comum.Entity.pdb
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Volvo.CadastrarModeloVeiculo.Repositorio.Comum.Entity\obj\Debug\Volvo.CadastrarModeloVeiculo.Repositorio.Comum.Entity.csprojAssemblyReference.cache
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Volvo.CadastrarModeloVeiculo.Repositorio.Comum.Entity\obj\Debug\Volvo.CadastrarModeloVeiculo.Repositorio.Comum.Entity.csproj.CoreCompileInputs.cache
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Volvo.CadastrarModeloVeiculo.Repositorio.Comum.Entity\obj\Debug\Volvo.CadastrarModeloVeiculo.Repositorio.Comum.Entity.dll
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Volvo.CadastrarModeloVeiculo.Repositorio.Comum.Entity\obj\Debug\Volvo.CadastrarModeloVeiculo.Repositorio.Comum.Entity.pdb

@@ -1,0 +1,11 @@
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Volvo.CadastrarModeloVeiculo.Comum.Entity\bin\Debug\Volvo.CadastrarModeloVeiculo.Comum.Entity.dll.config
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Volvo.CadastrarModeloVeiculo.Comum.Entity\bin\Debug\Volvo.CadastrarModeloVeiculo.Comum.Entity.dll
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Volvo.CadastrarModeloVeiculo.Comum.Entity\bin\Debug\Volvo.CadastrarModeloVeiculo.Comum.Entity.pdb
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Volvo.CadastrarModeloVeiculo.Comum.Entity\bin\Debug\EntityFramework.dll
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Volvo.CadastrarModeloVeiculo.Comum.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Volvo.CadastrarModeloVeiculo.Comum.Entity\bin\Debug\EntityFramework.xml
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Volvo.CadastrarModeloVeiculo.Comum.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Volvo.CadastrarModeloVeiculo.Comum.Entity\obj\Debug\Volvo.CadastrarModeloVeiculo.Comum.Entity.csproj.CoreCompileInputs.cache
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Volvo.CadastrarModeloVeiculo.Comum.Entity\obj\Debug\Volvo.CadastrarModeloVeiculo.Comum.Entity.csproj.CopyComplete
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Volvo.CadastrarModeloVeiculo.Comum.Entity\obj\Debug\Volvo.CadastrarModeloVeiculo.Comum.Entity.dll
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Volvo.CadastrarModeloVeiculo.Comum.Entity\obj\Debug\Volvo.CadastrarModeloVeiculo.Comum.Entity.pdb

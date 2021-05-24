@@ -1,0 +1,14 @@
+------------------------------Configurar Web Config---------------------------------------
+Abrir o codigo fonte no visual studio
+Localizar o arquivo web.config e realizar as alterações conforme abaixo
+
+Localiza a tag <connectionStrings>;
+Server="Colocar o nome do server do SQL";
+Id="informar o usuário da base de dados";
+Password="Informar senha para conectar no banco de dados";
+
+-------------------------------Executando a aplicação---------------------------------------------------------------
+
+Ao executar o codigo, na tela inicial terá um menu com a opção de cadastrar.
+Ao acessar essa opção terá a opção de cadastrar um novo modelo.
+Ao cadatrar o modelo, será apresentado irá voltar na tela inicial que irá listar o novo modelo cadastrado e as opções de "EDITAR, DETALHES e DELETAR"

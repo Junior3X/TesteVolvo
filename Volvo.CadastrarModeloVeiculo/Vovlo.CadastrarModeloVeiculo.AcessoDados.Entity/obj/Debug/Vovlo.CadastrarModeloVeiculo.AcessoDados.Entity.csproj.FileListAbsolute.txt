@@ -1,0 +1,17 @@
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Vovlo.CadastrarModeloVeiculo.AcessoDados.Entity\obj\Debug\Vovlo.CadastrarModeloVeiculo.AcessoDados.Entity.csprojAssemblyReference.cache
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Vovlo.CadastrarModeloVeiculo.AcessoDados.Entity\obj\Debug\Vovlo.CadastrarModeloVeiculo.AcessoDados.Entity.csproj.CoreCompileInputs.cache
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Vovlo.CadastrarModeloVeiculo.AcessoDados.Entity\bin\Debug\Vovlo.CadastrarModeloVeiculo.AcessoDados.Entity.dll.config
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Vovlo.CadastrarModeloVeiculo.AcessoDados.Entity\bin\Debug\Vovlo.CadastrarModeloVeiculo.AcessoDados.Entity.dll
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Vovlo.CadastrarModeloVeiculo.AcessoDados.Entity\bin\Debug\Vovlo.CadastrarModeloVeiculo.AcessoDados.Entity.pdb
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Vovlo.CadastrarModeloVeiculo.AcessoDados.Entity\bin\Debug\EntityFramework.dll
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Vovlo.CadastrarModeloVeiculo.AcessoDados.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Vovlo.CadastrarModeloVeiculo.AcessoDados.Entity\bin\Debug\Volvo.CadastrarModeloVeiculo.Comum.Entity.dll
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Vovlo.CadastrarModeloVeiculo.AcessoDados.Entity\bin\Debug\Volvo.CadastrarModeloVeiculo.Dominio.dll
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Vovlo.CadastrarModeloVeiculo.AcessoDados.Entity\bin\Debug\Volvo.CadastrarModeloVeiculo.Comum.Entity.pdb
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Vovlo.CadastrarModeloVeiculo.AcessoDados.Entity\bin\Debug\Volvo.CadastrarModeloVeiculo.Comum.Entity.dll.config
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Vovlo.CadastrarModeloVeiculo.AcessoDados.Entity\bin\Debug\Volvo.CadastrarModeloVeiculo.Dominio.pdb
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Vovlo.CadastrarModeloVeiculo.AcessoDados.Entity\bin\Debug\EntityFramework.xml
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Vovlo.CadastrarModeloVeiculo.AcessoDados.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Vovlo.CadastrarModeloVeiculo.AcessoDados.Entity\obj\Debug\Vovlo.CadastrarModeloVeiculo.AcessoDados.Entity.csproj.CopyComplete
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Vovlo.CadastrarModeloVeiculo.AcessoDados.Entity\obj\Debug\Vovlo.CadastrarModeloVeiculo.AcessoDados.Entity.dll
+C:\Users\55119\source\repos\Volvo.CadastrarModeloVeiculo\Vovlo.CadastrarModeloVeiculo.AcessoDados.Entity\obj\Debug\Vovlo.CadastrarModeloVeiculo.AcessoDados.Entity.pdb
